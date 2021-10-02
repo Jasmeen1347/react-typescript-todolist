@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#Demo
-Open [https://todolist-with-react-typescript.netlify.app/](https://todolist-with-react-typescript.netlify.app/) to see demo.
+# Demo
+Open [https://todolist-with-react-typescript.netlify.app](https://todolist-with-react-typescript.netlify.app) to see demo.
 
 ## Available Scripts
 
